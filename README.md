@@ -45,7 +45,13 @@ Upon completion of model training, the ensuing accuracies were attained:
 - CNN VGG16 with Global Average Pooling Model: 93%
 - YOLO v4: 92%
 
-## Contributing
+## Contributers
+
+1. [Pulkit Kumar Mathur](https://github.com/Pulkit1822)
+2. [Rohit Panjwani](https://github.com/Rohit-rp12)
+3. [Shreyansh Vijay](https://github.com/ShreY077)
+5. [Sumukh Gupta](https://github.com/sumukhgupta1702)
+
 Contributions are actively encouraged! Should any issues be identified or suggestions for enhancements arise, please feel free to either initiate an issue or submit a pull request.
 
 ## License
